@@ -1,0 +1,16 @@
+{
+    "name": "Offline Music Player",
+    "short_name": "Music Player",
+    "description": "Custom Offline Music Player for people that don't/won't use spotify or youtube music or apple music. Only downside is: You need the files already downloaded on your device.",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "icons": [
+        {
+            "src": "icon-112.png",
+            "sizes": "112x112",
+            "type": "image/png"
+        }
+    ]
+}
